@@ -1,0 +1,13 @@
+Download JDK8
+
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt update; sudo apt install oracle-java8-installer
+javac -version
+sudo apt install oracle-java8-set-default
+
+Installing Simple Screen Recorder
+$ sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+$ sudo apt-get update
+$ sudo apt-get install simplescreenrecorder
+
+
